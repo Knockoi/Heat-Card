@@ -9,7 +9,7 @@ This mini heating station is compact and portable. Compared with the MHP30 mini 
  ## Hardware  
 - MCU using ESP32 C3
 - MOSFET using NCEP40T11G to control the temperature of the hot plate.
-- Temperature measurement using PT1000.(-50°C~+500°C)
+- Temperature measurement using PT1000. (-50°C~+500°C)
 - Supports USB data transfer and UART data transfer (USB).
 - Three-way button to select mode
 - RGB display mode and system information
