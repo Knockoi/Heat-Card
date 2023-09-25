@@ -1,6 +1,6 @@
 # Heat-Card
  
-## Language selection:
+## Language selection:  
 [English]() | [Simplified Chinese]() | [Traditional Chinese]()
   
 ## Overview
@@ -14,14 +14,14 @@ This mini heating station is compact and portable. Compared with the MHP30 mini 
 - Three-way button to select mode
 - RGB display mode and system information
    
- ## Function
+ ## Function   
 - Imitates reflow soldering.
 - Constant Temperature Heating(1) 100~°C.
 - Constant temperature heating(2) 200~°C.
 - Constant temperature heating(3) 300°C. Fast reflow soldering.
 - Rapid reflow soldering time is 2/3 of the time of imitation reflow soldering.
   
- ## Fast Reflow Soldering Time is 2/3 of the time of Imitation Reflow Soldering.
+ ## Function key   
  - Left button Slide the left switch menu to the left.
  - Right Key Right Slide the switch menu to the right.
  - Center key Press and hold <=3S to confirm.
