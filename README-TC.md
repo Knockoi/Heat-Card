@@ -9,7 +9,7 @@
  ## Hardware  
 - MCU使用ESP32 C3
 - MOSFET使用NCEP40T11G控制熱板溫度
-- 溫度測量使用PT1000
+- 溫度測量使用PT1000 
 - 支持USB傳輸資料和UART傳輸資料(USB)
 - 三向按鈕來選擇模式
 - RGB顯示模式及系統資訊
