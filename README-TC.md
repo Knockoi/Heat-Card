@@ -1,7 +1,7 @@
 # Heat-Card
  
 ## 語言選擇:
-[English](https://github.com/Knockoi/Heat-Card/blob/main/Readme.md) | [简体中文]() | [正體中文]()
+[English](https://github.com/Knockoi/Heat-Card/blob/main/Readme.md) | [简体中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-CN.md) | [正體中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-TC.md)
   
 ## 概述
 這款迷你加熱台尺寸小巧，方便攜帶，與市面上的MHP30迷你加熱台相比，它擁有更大的加熱面積，不再受限於小小的加熱區域，機身更薄，可輕鬆放入口袋中。此外，它採用特別設計的PCB和銅柱組合，每一層功能都可以客製化設置，操作界面簡潔明了，使用簡單的RGB燈顯示狀態，其他設置可以通過藍芽連接手機或電腦進行調整，並支持藍芽和USB進行韌體升級，保證了機器的不斷改進和更新。
