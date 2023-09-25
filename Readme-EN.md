@@ -1,6 +1,6 @@
 # Heat-Card
  
-## Language selection: [English]() | [Simplified Chinese]() | [Traditional Chinese]()
+## Language selection:
 [English]() | [Simplified Chinese]() | [Traditional Chinese]()
   
 ## Overview
