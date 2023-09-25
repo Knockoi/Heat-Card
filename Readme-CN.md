@@ -1,7 +1,7 @@
 # Heat-Card
  
 ## 语言选择:
-[English](https://github.com/Knockoi/Heat-Card/blob/main/Readme.md) | [简体中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-CN.md) | [正体中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-TC.md)
+[English](https://github.com/Knockoi/Heat-Card/blob/main/Readme.md) | [简体中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-CN.md) | [繁體中文](https://github.com/Knockoi/Heat-Card/blob/main/Readme-TC.md)
   
 ## 概述
 这款迷你加热台尺寸小巧，方便携带，与市面上的MHP30迷你加热台相比，它拥有更大的加热面积，不再受限于小小的加热区域，机身更薄，可轻松放入口袋中。此外，它采用特别设计的PCB和铜柱组合，每一层功能都可以客制化设置，操作界面简洁明了，使用简单的RGB灯显示状态，其他设置可以通过蓝芽连接手机或电脑进行调整，并支持蓝芽和USB进行韧体升级，保证了机器的不断改进和更新。
