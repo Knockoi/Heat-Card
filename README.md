@@ -1,7 +1,6 @@
 # Heat-Card
-  
-語言選擇:
-  
+ 
+## 語言選擇:
 [English](#Languages) | [简体中文](#多语言) | [正體中文](#多語言)
   
 ## Overview
