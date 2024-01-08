@@ -5,6 +5,7 @@
   
 ## Overview
 This mini heating station is compact and portable. Compared with the MHP30 mini heating station on the market, it has a larger heating area and is no longer restricted to a small heating area, and its body is thinner so that it can easily fit into your pocket. In addition, it adopts a specially designed PCB and copper column combination, each layer of function can be customized. The operation interface is simple and clear, using simple RGB lights to show the status, other settings can be adjusted through Bluetooth to connect to a mobile phone or a computer, and it supports Bluetooth and USB for firmware upgrade, which guarantees the machine's continuous improvement and updating.
+  ![image](https://github.com/Knockoi/Heat-Card/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-22%20183807.png)
   
  ## Hardware  
 - MCU using ESP32 C3
